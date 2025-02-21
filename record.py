@@ -1,0 +1,1 @@
+all_records = [{'date': '06/02/2025', 'category': 'Food', 'amount': 241.0, 'description': 'dfb'}, {'date': '06/02/2025', 'category': 'Food', 'amount': 241.0, 'description': 'dfb'}, {'date': '06/02/2025', 'category': 'Food', 'amount': 784.0, 'description': 'sdvm'}, {'date': '06/02/2025', 'category': 'EMI', 'amount': 2000.0, 'description': 'ssq'}]
